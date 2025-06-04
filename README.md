@@ -2,7 +2,7 @@
 
 # Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
-
+ 
 ## Introduction :
 
 Generative Language Models gained signiﬁcant attention in late 2022 / early 2023, notably with the introduction of models reﬁned to act consistently with users’ expectations of interactions with AI (conversational models). Arguably the focal point of public attention has been such a reﬁnement of the GPT3 model - the ChatGPT and its subsequent integration with auxiliary capabilities, including search as part of Microsoft Bing. Despite extensive prior research invested in their development, their performance and applicability to a range of daily tasks remained unclear and niche. However, their wider utilization without a requirement for technical expertise, made in large part possible through conversational ﬁne-tuning, revealed the extent of their true capabilities in a real-world environment. This has garnered both public excitement for their potential applications and concerns about their capabilities and potential malicious uses. This review aims to provide a brief overview of the history, state of the art, and implications of Generative Language Models in terms of their principles, abilities, limitations, and future prospects – especially in the context of cyber-defense, with a focus on the Swiss operational environment.
